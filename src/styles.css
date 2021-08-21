@@ -1,0 +1,31 @@
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Inter", sans-serif;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.back-btn {
+  font-size: 2rem;
+  color: black;
+  margin-left: 1rem;
+}
+
+.back-btn:hover {
+  cursor: pointer;
+}
+
+.margin-btn {
+  margin-bottom: 0.5rem;
+}
+.goog-te-banner-frame {
+  visibility: hidden !important;
+}
+
+.register {
+  padding: 0.2 1rem;
+}
