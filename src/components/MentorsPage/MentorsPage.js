@@ -11,7 +11,11 @@ const MentorsPage = () => {
   console.log(mentors)
 
   const getMentors = async () => {
-    const res = await axios.get("http://localhost:3001/mentors");
+    //DEVELOPMENT
+    // const res = await axios.get("http://localhost:3001/mentors");
+
+    //PRODUCTION
+    const res = await axios.get("https://immigrow-server.herokuapp.com/mentors");
     setMentors(res.data);
   };
   useEffect(() => {
