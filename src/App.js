@@ -13,13 +13,8 @@ import { UserContext } from "./components/UserContext/UserContext";
 import { useState } from "react";
 import { BrowserRouter as Router, Route } from "react-router-dom";
 
+
 export default function App() {
-
-  const [active, setActive] = useState('/homepage')
-
-  const handleColor = (val) => {
-    setActive(val)
-  }
 
   const [user, setUser] = useState({
     name: "",
@@ -34,7 +29,7 @@ export default function App() {
   return (
     <div className="App">
       <Router>
-        <UserContext.Provider value={{ user, setUser, active, setActive, handleColor }}>
+        <UserContext.Provider value={{ user, setUser }}>
           <Route path="/" exact component={SignupPage} />
           <Route path="/signup" component={LandingPage} />
           <Route path="/details" component={UserDetailsPage} />

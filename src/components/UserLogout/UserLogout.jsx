@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 import { IoIosLogOut } from "react-icons/io";
 
 class UserLogOut extends React.Component {

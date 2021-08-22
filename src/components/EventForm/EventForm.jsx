@@ -40,7 +40,7 @@ export default class EventForm extends Component {
                 // send the body object to server
 
             })
-            let serverResponse = await fetchResponse.json()
+            await fetchResponse.json()
             this.props.updateMarker({
                 name: this.state.name,
                 location: this.state.location,
