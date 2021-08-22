@@ -33,7 +33,7 @@ export default function App() {
 
   return (
     <div className="App">
-      <Router basename={process.env.PUBLIC_URL}>
+      <Router>
         <UserContext.Provider value={{ user, setUser, active, setActive, handleColor }}>
           <Route path="/" exact component={SignupPage} />
           <Route path="/signup" component={LandingPage} />
