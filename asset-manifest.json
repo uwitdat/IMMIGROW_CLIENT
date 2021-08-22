@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/immigrow_client/static/css/main.387fcf4e.chunk.css",
-    "main.js": "/immigrow_client/static/js/main.1584b39d.chunk.js",
-    "main.js.map": "/immigrow_client/static/js/main.1584b39d.chunk.js.map",
-    "runtime-main.js": "/immigrow_client/static/js/runtime-main.00fb9945.js",
-    "runtime-main.js.map": "/immigrow_client/static/js/runtime-main.00fb9945.js.map",
-    "static/css/2.8d682a32.chunk.css": "/immigrow_client/static/css/2.8d682a32.chunk.css",
-    "static/js/2.8dab81af.chunk.js": "/immigrow_client/static/js/2.8dab81af.chunk.js",
-    "static/js/2.8dab81af.chunk.js.map": "/immigrow_client/static/js/2.8dab81af.chunk.js.map",
-    "index.html": "/immigrow_client/index.html",
-    "static/css/2.8d682a32.chunk.css.map": "/immigrow_client/static/css/2.8d682a32.chunk.css.map",
-    "static/css/main.387fcf4e.chunk.css.map": "/immigrow_client/static/css/main.387fcf4e.chunk.css.map",
-    "static/js/2.8dab81af.chunk.js.LICENSE.txt": "/immigrow_client/static/js/2.8dab81af.chunk.js.LICENSE.txt"
+    "main.css": "/IMMIGROW_CLIENT/static/css/main.387fcf4e.chunk.css",
+    "main.js": "/IMMIGROW_CLIENT/static/js/main.1584b39d.chunk.js",
+    "main.js.map": "/IMMIGROW_CLIENT/static/js/main.1584b39d.chunk.js.map",
+    "runtime-main.js": "/IMMIGROW_CLIENT/static/js/runtime-main.e9ae0ecf.js",
+    "runtime-main.js.map": "/IMMIGROW_CLIENT/static/js/runtime-main.e9ae0ecf.js.map",
+    "static/css/2.8d682a32.chunk.css": "/IMMIGROW_CLIENT/static/css/2.8d682a32.chunk.css",
+    "static/js/2.8dab81af.chunk.js": "/IMMIGROW_CLIENT/static/js/2.8dab81af.chunk.js",
+    "static/js/2.8dab81af.chunk.js.map": "/IMMIGROW_CLIENT/static/js/2.8dab81af.chunk.js.map",
+    "index.html": "/IMMIGROW_CLIENT/index.html",
+    "static/css/2.8d682a32.chunk.css.map": "/IMMIGROW_CLIENT/static/css/2.8d682a32.chunk.css.map",
+    "static/css/main.387fcf4e.chunk.css.map": "/IMMIGROW_CLIENT/static/css/main.387fcf4e.chunk.css.map",
+    "static/js/2.8dab81af.chunk.js.LICENSE.txt": "/IMMIGROW_CLIENT/static/js/2.8dab81af.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.00fb9945.js",
+    "static/js/runtime-main.e9ae0ecf.js",
     "static/css/2.8d682a32.chunk.css",
     "static/js/2.8dab81af.chunk.js",
     "static/css/main.387fcf4e.chunk.css",
