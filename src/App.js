@@ -11,7 +11,7 @@ import GroupsPage from "./components/GroupsPage/GroupsPage";
 
 import { UserContext } from "./components/UserContext/UserContext";
 import { useState } from "react";
-import { BrowserRouter as Router, Route } from "react-router-dom";
+import { BrowserRouter, Route } from "react-router-dom";
 
 
 export default function App() {
@@ -28,7 +28,7 @@ export default function App() {
 
   return (
     <div className="App">
-      <Router>
+      <BrowserRouter basename='IMMIGROW_CLIENT'>
         <UserContext.Provider value={{ user, setUser }}>
           <Route path="/" exact component={SignupPage} />
           <Route path="/signup" component={LandingPage} />
@@ -40,7 +40,7 @@ export default function App() {
           <Route path="/groups" component={GroupsPage} />
           <Route path="/forum" component={Forum} />
         </UserContext.Provider>
-      </Router>
+      </BrowserRouter>
     </div>
   );
 }
