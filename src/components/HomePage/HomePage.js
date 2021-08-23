@@ -1,14 +1,18 @@
 import HomePageContent from '../HomePageContent/HomePageContent'
 import FooterBar from '../FooterBar/FooterBar'
 import DetailsHeaderSecond from "../DetailsHeaderSecond/DetailsHeaderSecond";
+import { useEffect } from 'react'
 import "./HomePage.css";
 
 const HomePage = () => {
+  useEffect(() => {
+    window.scrollTo(0, 0)
+  }, [])
+
   return (
 
     <div className='Content-container'>
       <DetailsHeaderSecond />
-
 
       <div className='Home-img'>
 

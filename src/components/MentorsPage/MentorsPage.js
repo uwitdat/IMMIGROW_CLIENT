@@ -7,8 +7,10 @@ import './MentorsPage.css'
 
 const MentorsPage = () => {
   const [mentors, setMentors] = useState([]);
-
-  console.log(mentors)
+  const [loading, setLoading] = useState(true)
+  useEffect(() => {
+    window.scrollTo(0, 0)
+  }, [])
 
   const getMentors = async () => {
     //DEVELOPMENT
@@ -17,6 +19,7 @@ const MentorsPage = () => {
     //PRODUCTION
     const res = await axios.get("https://immigrow-server.herokuapp.com/mentors");
     setMentors(res.data);
+    setLoading(false)
   };
   useEffect(() => {
     getMentors();
@@ -25,6 +28,8 @@ const MentorsPage = () => {
   return (
     <div className='padding-extra'>
       <DetailsHeader />
+      {loading ? <div className='load-contain'> <div class="lds-ring"><div></div><div></div><div></div><div></div></div> </div> : null}
+
       {mentors.map((mentor) => (
         <Mentor key={mentor._id} mentor={mentor} />
       ))}
