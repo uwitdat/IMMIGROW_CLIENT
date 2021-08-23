@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/immigrow/static/css/main.387fcf4e.chunk.css",
-    "main.js": "/immigrow/static/js/main.1584b39d.chunk.js",
-    "main.js.map": "/immigrow/static/js/main.1584b39d.chunk.js.map",
-    "runtime-main.js": "/immigrow/static/js/runtime-main.960fde3a.js",
-    "runtime-main.js.map": "/immigrow/static/js/runtime-main.960fde3a.js.map",
-    "static/css/2.8d682a32.chunk.css": "/immigrow/static/css/2.8d682a32.chunk.css",
-    "static/js/2.8dab81af.chunk.js": "/immigrow/static/js/2.8dab81af.chunk.js",
-    "static/js/2.8dab81af.chunk.js.map": "/immigrow/static/js/2.8dab81af.chunk.js.map",
-    "index.html": "/immigrow/index.html",
-    "static/css/2.8d682a32.chunk.css.map": "/immigrow/static/css/2.8d682a32.chunk.css.map",
-    "static/css/main.387fcf4e.chunk.css.map": "/immigrow/static/css/main.387fcf4e.chunk.css.map",
-    "static/js/2.8dab81af.chunk.js.LICENSE.txt": "/immigrow/static/js/2.8dab81af.chunk.js.LICENSE.txt"
+    "main.css": "/IMMIGROW_CLIENT/static/css/main.387fcf4e.chunk.css",
+    "main.js": "/IMMIGROW_CLIENT/static/js/main.9df5e75b.chunk.js",
+    "main.js.map": "/IMMIGROW_CLIENT/static/js/main.9df5e75b.chunk.js.map",
+    "runtime-main.js": "/IMMIGROW_CLIENT/static/js/runtime-main.e9ae0ecf.js",
+    "runtime-main.js.map": "/IMMIGROW_CLIENT/static/js/runtime-main.e9ae0ecf.js.map",
+    "static/css/2.8d682a32.chunk.css": "/IMMIGROW_CLIENT/static/css/2.8d682a32.chunk.css",
+    "static/js/2.39f1a588.chunk.js": "/IMMIGROW_CLIENT/static/js/2.39f1a588.chunk.js",
+    "static/js/2.39f1a588.chunk.js.map": "/IMMIGROW_CLIENT/static/js/2.39f1a588.chunk.js.map",
+    "index.html": "/IMMIGROW_CLIENT/index.html",
+    "static/css/2.8d682a32.chunk.css.map": "/IMMIGROW_CLIENT/static/css/2.8d682a32.chunk.css.map",
+    "static/css/main.387fcf4e.chunk.css.map": "/IMMIGROW_CLIENT/static/css/main.387fcf4e.chunk.css.map",
+    "static/js/2.39f1a588.chunk.js.LICENSE.txt": "/IMMIGROW_CLIENT/static/js/2.39f1a588.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.960fde3a.js",
+    "static/js/runtime-main.e9ae0ecf.js",
     "static/css/2.8d682a32.chunk.css",
-    "static/js/2.8dab81af.chunk.js",
+    "static/js/2.39f1a588.chunk.js",
     "static/css/main.387fcf4e.chunk.css",
-    "static/js/main.1584b39d.chunk.js"
+    "static/js/main.9df5e75b.chunk.js"
   ]
 }
