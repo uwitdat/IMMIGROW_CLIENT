@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/IMMIGROW_CLIENT/static/css/main.387fcf4e.chunk.css",
-    "main.js": "/IMMIGROW_CLIENT/static/js/main.dd36d06e.chunk.js",
-    "main.js.map": "/IMMIGROW_CLIENT/static/js/main.dd36d06e.chunk.js.map",
+    "main.css": "/IMMIGROW_CLIENT/static/css/main.a36897ba.chunk.css",
+    "main.js": "/IMMIGROW_CLIENT/static/js/main.4cdffa6b.chunk.js",
+    "main.js.map": "/IMMIGROW_CLIENT/static/js/main.4cdffa6b.chunk.js.map",
     "runtime-main.js": "/IMMIGROW_CLIENT/static/js/runtime-main.e9ae0ecf.js",
     "runtime-main.js.map": "/IMMIGROW_CLIENT/static/js/runtime-main.e9ae0ecf.js.map",
     "static/css/2.8d682a32.chunk.css": "/IMMIGROW_CLIENT/static/css/2.8d682a32.chunk.css",
-    "static/js/2.39f1a588.chunk.js": "/IMMIGROW_CLIENT/static/js/2.39f1a588.chunk.js",
-    "static/js/2.39f1a588.chunk.js.map": "/IMMIGROW_CLIENT/static/js/2.39f1a588.chunk.js.map",
+    "static/js/2.193c1845.chunk.js": "/IMMIGROW_CLIENT/static/js/2.193c1845.chunk.js",
+    "static/js/2.193c1845.chunk.js.map": "/IMMIGROW_CLIENT/static/js/2.193c1845.chunk.js.map",
     "index.html": "/IMMIGROW_CLIENT/index.html",
     "static/css/2.8d682a32.chunk.css.map": "/IMMIGROW_CLIENT/static/css/2.8d682a32.chunk.css.map",
-    "static/css/main.387fcf4e.chunk.css.map": "/IMMIGROW_CLIENT/static/css/main.387fcf4e.chunk.css.map",
-    "static/js/2.39f1a588.chunk.js.LICENSE.txt": "/IMMIGROW_CLIENT/static/js/2.39f1a588.chunk.js.LICENSE.txt"
+    "static/css/main.a36897ba.chunk.css.map": "/IMMIGROW_CLIENT/static/css/main.a36897ba.chunk.css.map",
+    "static/js/2.193c1845.chunk.js.LICENSE.txt": "/IMMIGROW_CLIENT/static/js/2.193c1845.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e9ae0ecf.js",
     "static/css/2.8d682a32.chunk.css",
-    "static/js/2.39f1a588.chunk.js",
-    "static/css/main.387fcf4e.chunk.css",
-    "static/js/main.dd36d06e.chunk.js"
+    "static/js/2.193c1845.chunk.js",
+    "static/css/main.a36897ba.chunk.css",
+    "static/js/main.4cdffa6b.chunk.js"
   ]
 }
