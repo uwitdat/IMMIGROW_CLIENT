@@ -16,6 +16,11 @@ Developed By:
 * [Ben Shekhtman](https://github.com/uwitdat)
 * [Basma Shahid](https://github.com/basma-shahid)
 
+Designed By: 
+* [Hyunjin Kim](https://www.linkedin.com/in/hkim3180/)
+* [Lorenn Sayers](https://www.linkedin.com/in/lorennsayers/)
+
+
 
 
 
